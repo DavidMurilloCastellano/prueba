@@ -14,7 +14,7 @@ int main()
     }
     cout << endl;
     cout << "Hola" << endl;
-    system("pause")
+    system("pause");
     return 0;
 }
 //Comentario de prueba
